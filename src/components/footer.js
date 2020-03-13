@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react"
 
 const Footer = () => {
-    return (
-        <footer>
-            <p>Created by phantom. 2020</p>
-        </footer>
-    );
+  return (
+    <footer>
+      <p>Created by phantom. 2020</p>
+    </footer>
+  )
 }
 
-export default Footer;
+export default Footer
